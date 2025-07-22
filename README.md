@@ -1,0 +1,1 @@
+# genai_content_assistant
